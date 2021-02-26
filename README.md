@@ -1,4 +1,4 @@
-#### I'm a Discord Bot Developer :D
+#### Developing :D
 ![I'm a Discord Bot Developer :D](https://imgur.com/K7Bzd81.png)
 
 Languages and Tools:
