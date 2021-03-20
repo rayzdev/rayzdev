@@ -1,5 +1,5 @@
-#### Developing :D
-![I'm a Discord Bot Developer :D](https://imgur.com/K7Bzd81.png)
+#### Monke :D
+![monke](https://imgur.com/K7Bzd81.png)
 
 Languages and Tools:
 
